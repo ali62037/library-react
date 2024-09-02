@@ -14,23 +14,23 @@ const router = createBrowserRouter([
       element: <Home/>,
     },
     {
-      path: "/library-react/about",
+      path: "/about",
       element: <About/>,
     },
     {
-      path: "/library-react/catalog",
+      path: "/catalog",
       element: <Catalog/>,
     },
     {
-      path: "/library-react/contact",
+      path: "/contact",
       element : <Contact/>,
     },
     {
-      path: "/library-react/gallery",
+      path: "/gallery",
       element: <Gallery/>,
     },
     {
-      path: "/library-react/self",
+      path: "/self",
       element: <Self/>,
     },
   ]);
