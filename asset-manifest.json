@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/library-react/static/css/main.00bf679d.css",
+    "main.js": "/library-react/static/js/main.7b42fc6c.js",
+    "static/js/453.6500c283.chunk.js": "/library-react/static/js/453.6500c283.chunk.js",
+    "static/media/book.png": "/library-react/static/media/book.060af9b986464d62228c.png",
+    "static/media/Jk library.jpeg": "/library-react/static/media/Jk library.623593afa67318c5c61e.jpeg",
+    "static/media/6.jpg": "/library-react/static/media/6.3f7f8ec924aa63ff2157.jpg",
+    "static/media/2.jpg": "/library-react/static/media/2.e4fe078ef446114528dc.jpg",
+    "static/media/12.jpg": "/library-react/static/media/12.7aa602943a2ddb7a46d3.jpg",
+    "static/media/1.jpg": "/library-react/static/media/1.14c32915e2fb944af00e.jpg",
+    "static/media/13.jpg": "/library-react/static/media/13.c88f3db5c0b75696bbaf.jpg",
+    "static/media/8.jpg": "/library-react/static/media/8.c0517f5361f3f65b724c.jpg",
+    "static/media/14.jpg": "/library-react/static/media/14.5adae5fe4a58fbe0dd89.jpg",
+    "static/media/10.jpg": "/library-react/static/media/10.eed0ba6b469bbb008fe9.jpg",
+    "static/media/enviroment.png": "/library-react/static/media/enviroment.4f7cc770243eb74a95e2.png",
+    "static/media/wifi.png": "/library-react/static/media/wifi.5ff1a1cd8d8aa1242f57.png",
+    "static/media/3.jpg": "/library-react/static/media/3.a66b84d96c3f591eacd4.jpg",
+    "static/media/4.jpg": "/library-react/static/media/4.7f84ffbb578d559ad5e3.jpg",
+    "static/media/chair.png": "/library-react/static/media/chair.d5527e71e9d222827a39.png",
+    "static/media/7.jpg": "/library-react/static/media/7.80aad272a7361baa42c5.jpg",
+    "static/media/9.jpg": "/library-react/static/media/9.a4fc541e94e97c25906f.jpg",
+    "static/media/water.png": "/library-react/static/media/water.134a36b654e8956149c3.png",
+    "static/media/5.jpg": "/library-react/static/media/5.2d51385e97df876579fc.jpg",
+    "static/media/11.jpg": "/library-react/static/media/11.9ab070cc5ebe4e27ab79.jpg",
+    "static/media/power.png": "/library-react/static/media/power.dc21a47299370ff8ce04.png",
+    "static/media/ac.png": "/library-react/static/media/ac.1f2f6401920a430dffb1.png",
+    "static/media/charging.png": "/library-react/static/media/charging.b7809a4fc975bcc71bd8.png",
+    "static/media/loker.png": "/library-react/static/media/loker.c0756b58f1ddfe319c63.png",
+    "static/media/camera.png": "/library-react/static/media/camera.68837d14ef5ba4f6fe45.png",
+    "static/media/logo.png": "/library-react/static/media/logo.9de2a6dc38a39a33f034.png",
+    "index.html": "/library-react/index.html",
+    "main.00bf679d.css.map": "/library-react/static/css/main.00bf679d.css.map",
+    "main.7b42fc6c.js.map": "/library-react/static/js/main.7b42fc6c.js.map",
+    "453.6500c283.chunk.js.map": "/library-react/static/js/453.6500c283.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00bf679d.css",
+    "static/js/main.7b42fc6c.js"
+  ]
+}
