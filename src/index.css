@@ -1,0 +1,95 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin:0;
+  padding:0;
+}
+
+@media (max-width: 640px) {
+  /* #ads {
+    font-size: 3px;
+  } */
+  #nav1{
+    gap:7px;
+    padding:0;
+
+  }
+  #nav1 h4{
+    
+    font-size:13px;
+    gap:2px;
+    margin:0;
+    padding:0;
+
+  }
+
+
+   #main{
+    display: block;
+    height : 100%;
+    weigth: 100vb;
+    
+   }
+   #main1{
+    display:inline;
+
+   }
+   #learn{
+    font-size: 35px;
+    padding:18px;
+    
+    text-align : center;
+   }
+   #offer{
+    font-size: 17px;
+    padding:18px;
+    text-align : center;
+
+    
+   }
+   #btnnow{
+    display: block;
+    margin: 0 auto;
+   }
+   #imgs{
+    padding:0;
+    height:90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+   }
+   .nav{
+    /* display:none; */
+   }
+   #menu{
+    display:inline;
+   }
+   #contact{
+    padding: 8px;
+    margin: 4px;
+   }
+   #about{
+    padding: 8px;
+    margin: 4px;
+   }
+
+   #our{
+    margin-left:4%;
+    margin-right:4%;
+    margin-bottom:2rem;
+    margin-top:10px;
+    gap: 2rem;
+   }
+   #facility{
+    font-size: 30px;
+    margin:10px;
+    padding:10px
+   }
+   #facility1{
+    margin:1px
+   }
+  }
