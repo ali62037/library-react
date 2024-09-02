@@ -10,27 +10,27 @@ import Gallery from './screen/Gallery';
 
 const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/library-react/",
       element: <Home/>,
     },
     {
-      path: "/about",
+      path: "/library-react/about",
       element: <About/>,
     },
     {
-      path: "/catalog",
+      path: "/library-react/catalog",
       element: <Catalog/>,
     },
     {
-      path: "/contact",
+      path: "/library-react/contact",
       element : <Contact/>,
     },
     {
-      path: "/gallery",
+      path: "/library-react/gallery",
       element: <Gallery/>,
     },
     {
-      path: "/self",
+      path: "/library-react/self",
       element: <Self/>,
     },
   ]);
