@@ -9,7 +9,7 @@ function Nav() {
       <img className='h-16 w-16 ' src={img1} alt='logo'/>
     
       <div id='nav1' className='flex gap-7 p-4 nav'>
-        <h4 className='text-xl font-semibold'><Link to="/">Home</Link></h4>
+        <h4 className='text-xl font-semibold'><Link to="/library-react/">Home</Link></h4>
         <h4 className='text-lg'><Link to="/catalog">Catalog</Link></h4>
         <h4 className='text-lg'><Link to="/gallery">Gallery</Link></h4>
         <h4 className='text-lg'><Link to= "/about">About</Link></h4>
